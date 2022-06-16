@@ -8,20 +8,34 @@
  
 ### Procedure
 ### STEP 1.Start the Quartus II Programmer.
-![d1](https://user-images.githubusercontent.com/93427186/174054895-d4af7465-3f5b-429c-a783-0b69171851eb.jpeg)
+
+![image](https://user-images.githubusercontent.com/93427186/174057483-eac72b1d-db55-45a7-9566-54c6882cadd5.png)
+
+
 ### STEP 2.Click Add File and select the path to the desired .sof.
-![d2](https://user-images.githubusercontent.com/93427186/174054915-e63b0810-daef-41ec-9465-7f13e7b7e04f.jpeg)
+
+![image](https://user-images.githubusercontent.com/93427186/174057537-60dd7145-249d-4e5b-8a14-a3220f35b538.png)
+
+
 ### STEP 3.Turn on the Program/Configure option for the added file.
-![d3](https://user-images.githubusercontent.com/93427186/174054926-fa1c133e-a622-49fb-8853-90a3691e1aa4.jpeg)
+
+![image](https://user-images.githubusercontent.com/93427186/174057568-f95cc835-e118-4a43-a04e-97af0569b6cc.png)
+
+
 ### STEP 4.Click Start to download the selected file to the FPGA. Configuration is complete when the progress bar reaches 100%.
-![d4](https://user-images.githubusercontent.com/93427186/174054941-1235d05c-2c2e-4bd4-9b0b-9d4903d66c10.jpeg)
 
-![d5](https://user-images.githubusercontent.com/93427186/174054959-7c1a0550-e56c-4c39-8557-f5d048c44a58.jpeg)
+![image](https://user-images.githubusercontent.com/93427186/174057620-161be90b-13ce-4e46-a8ce-e06be74e908a.png)
 
-![d6](https://user-images.githubusercontent.com/93427186/174054976-9de470bc-c23a-41f3-88f7-51c5e35d79cc.jpeg)
+
+![image](https://user-images.githubusercontent.com/93427186/174057645-fd74dc42-a5f9-4e78-ab47-6d97dde903cc.png)
+
+
+![image](https://user-images.githubusercontent.com/93427186/174057698-895c8689-9e39-4c51-abb3-8cf66aaf5c06.png)
+
+
 ### Output:
-![d7](https://user-images.githubusercontent.com/93427186/174056316-3ceb218a-b079-4927-9b37-c02b45a52237.PNG)
 
+![image](https://user-images.githubusercontent.com/93427186/174057751-02ef8e77-84c5-477a-b9d4-2b0cd5b50821.png)
 
 
 ### RESULTS
